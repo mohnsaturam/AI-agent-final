@@ -1,0 +1,21 @@
+env/
+dom_signals/
+logs/
+site_relevance_signals/
+.env
+backend.log
+node_modules/
+.pytest_cache/
+__pycache__/
+docs/
+
+# IDE and OS
+.DS_Store
+.vscode/
+.idea/
+
+# Tooling and Builds
+.vite/
+dist/
+build/
+*.log
